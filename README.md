@@ -2,7 +2,7 @@
 
 ### [Downloads](https://github.com/VarunS2002/Python-Tic-Tac-Toe/releases)
 
-This is a fully fledged 2 player tic-tac-toe game written in Python using Tkinter GUI
+This is a fully fledged 2 or 1 player tic-tac-toe game written in Python using Tkinter GUI
 
 ## Usage:
 
