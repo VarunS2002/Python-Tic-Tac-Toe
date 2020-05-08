@@ -8,13 +8,11 @@ This is a fully fledged 2 player tic-tac-toe game written in Python using Tkinte
 
 -Directly run the program
 
-## Note:
-
--Default mode is Player vs Computer
-
 ## Features:
 
--2 modes namely Player vs Computer and Player vs Player  
+-2 modes namely Player vs Computer and Player vs Player
+
+-Default mode is Player vs Computer
 
 -Option to change the mode
 
@@ -25,6 +23,8 @@ This is a fully fledged 2 player tic-tac-toe game written in Python using Tkinte
 -First to start is always X
 
 -Shows you who won or if it's a draw
+
+-Different result messages based on the mode
 
 -Restart Game Option
 
